@@ -1,5 +1,5 @@
 body{
-    background-color:pink;
+    background-color:white;
 }
 
 
@@ -7,3 +7,8 @@ h1{
     background-color: #ff45ff;
 }
 
+p{
+    background-color:#790c1e;
+    color: skyblue;
+    border: 2px solid green;
+}
